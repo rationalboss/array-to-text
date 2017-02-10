@@ -1,0 +1,8 @@
+{
+    "name": "rationalboss/array-to-text",
+    "autoload": {
+        "psr-0" : {
+            "rationalboss\\util" : "src"
+        }
+    }
+}
