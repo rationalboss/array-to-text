@@ -1,8 +1,13 @@
 {
     "name": "rationalboss/array-to-text",
-    "autoload": {
-        "psr-0" : {
-            "rationalboss\\util" : "src"
+    "description": "Convert PHP arrays to plain text table.",
+    "authors": [
+        {
+            "name": "rationalboss",
+            "email": "rationalboss@gmail.com"
         }
+    ],
+    "psr-4": {
+	"rationalboss\\util": "src/"
     }
 }
