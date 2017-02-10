@@ -7,7 +7,9 @@
             "email": "rationalboss@gmail.com"
         }
     ],
-    "psr-4": {
-	"rationalboss\\util": "src/"
-    }
+	"autoload": {
+	    "psr-4": {
+			"rationalboss\\util": "src/"
+	    }
+	}
 }
