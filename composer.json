@@ -9,7 +9,7 @@
     ],
 	"autoload": {
 	    "psr-4": {
-			"rationalboss\\util": "src/"
+			"rationalboss\\util\\": "src/"
 	    }
 	}
 }
